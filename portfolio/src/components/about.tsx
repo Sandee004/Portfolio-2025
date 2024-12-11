@@ -20,24 +20,18 @@ const About = () => {
         className="mx-auto"
       >
         <p className="px-4">
-          I'm <span className="text-green-400 font-bold">Oyarekhua Sandra</span>
-          , a full-stack web developer based in Nigeria. With over 4 years of
-          experience, I specialize in creating engaging web applications using
-          technologies like React, TypeScript, and Flask. Currently pursuing a
-          degree in Agricultural Economics and Extension at the University of
-          Benin, I bring a unique blend of technical skills and analytical
-          thinking to my development work. My recent projects include AgroFind,
-          an AI-powered plant identification chatbot, and Kidsflix, a movie
-          recommendation app for children. These showcase my ability to
-          integrate cutting-edge technologies and create user-friendly
-          interfaces. I'm passionate about solving problems through code and
-          always eager to learn new technologies. When I'm not coding, you can
-          find me contributing to open-source projects or participating in
-          hackathons.
-        </p>
-
-        <p className="text-center text-green-400 font-bold">
-          Let's build something great together!
+          I’m a <span className="text-green-500">Fullstack Developer</span>{" "}
+          passionate about creating seamless and efficient web solutions. With a
+          strong foundation in both front-end and back-end technologies, I
+          specialize in building scalable applications that blend functionality
+          with intuitive design. Fueled by a curiosity for innovation and
+          technical excellence, I thrive on solving complex problems and
+          crafting solutions that leave a lasting impact. Whether working on
+          dynamic user interfaces or robust server-side systems, I aim to
+          deliver code that is clean, efficient, and impactful.
+          <span className="text-center text-green-500 font-bold">
+            Let's build something great together!
+          </span>
         </p>
       </motion.div>
     </div>
